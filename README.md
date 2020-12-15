@@ -1,5 +1,5 @@
 # index.html
-https://chaesarical.github.io/foryou/?=by=Bee
+https://Bee.github.io/foryou/?=by=Bee
 <!doctype html>
 <html lang="en">
 
